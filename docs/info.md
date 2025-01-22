@@ -9,13 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Consists of 4 adders, 1 half adder and 3 full adders
+A half adder adds two single-bit binary numbers and produces a sum and a carry.
 
 ## How to test
-
- Between bit 0 to 3 set the first number, and from pin 4 to 7 set the second number.
+A half adder adds two single-bit binary numbers, producing a sum and a carry.
 
 ## External hardware
 
-![Uploading image.png…]()
+
 
